@@ -253,12 +253,19 @@ SQL Codes and Result
 
 We have selected two sessions from the results: “website_session_id” 472668 and 472678. It is worth noting that both of these sessions have placed an order.
 By pulling out the “pageview_url” of a complete session, we know that the sequence of placing an order is:
+
 Page 1: entry pages (which are '/home','/lander-1','/lander-2','/lander-3','/lander-4','/lander-5')
+
 Page 2: product index page (which is '/products)',
+
 Page 3: specific product pages'(which are ‘/the-original-mr-fuzzy','/the-hudson-river-mini-bear','/the-birthday-sugar-panda','/the-forever-love-bear'),
+
 Page 4: cart page (which is '/cart'),
+
 Page 5: shipping page (which is '/shipping'),
+
 Page 6: billing pages (which are '/billing-2','/billing')
+
 Page 7: placing an order page (which is '/thank-you-for-your-order')
 
 ### Step 3: Build the conversion funnel.
