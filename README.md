@@ -315,12 +315,15 @@ Result
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/292257ea-5faa-4c84-8f7a-3bebb30ee88b)
 
 ### Step 2: Calculate the percentage for desktop and mobile of different utm_source.
+
 SQL Codes
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/00742c9e-27fe-41d3-932c-51c8e3079833)
 
 Result
 
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/73bcefe8-4e3d-4b05-a1cc-77163938d120)
+
+
 Based on the above results, it is evident that Gsearch is the dominant channel for both mobile and desktop searches, with a share of 0.6922 and 0.6577, respectively. In contrast, the other three channels exhibit significantly lower shares, regardless of whether it is in the mobile or desktop category.
 
 ## 9.	What percentage of sessions originate from organic search, direct type-ins, and paid searches on a yearly basis?
@@ -339,6 +342,23 @@ However, it is important to mention that the paid nonbrand search rate has exper
 
 # Part 3 Findings
 
+● Among the 472,871 website sessions analyzed, Gsearch Nonbrand contributed to the highest share with 59.79%, equivalent to 282,706 sessions. It was followed by Bsearch Nonbrand at 11.61% and direct type-in at 8.44%.
+
+● Out of the total sessions, 32,313 orders were placed, resulting in a conversion rate of 6.83%. The top three channels with the highest conversion rates were organic search (9.05%), Bsearch Brand (8.86%), and Gsearch Brand (7.53%). However, there were three channels with conversion rates lower than the overall conversion rate, namely Gsearch Nonbrand, Socialbook Desktop_targeted, and Socialbook Pilot.
+
+● The overall bounce rate of paid traffic showed a significant decrease from 0.6079 to the latest measurement of 0.4023. Currently, there are three coexisting entry pages: '/home', '/lander3', and '/lander5'. Among these, '/lander5' performs the best, while '/lander3' has the lowest performance in terms of bounce rate.
+
+● Among all the pageview URLs excluding entry pages, the 'the-original-mr-fuzzy' page received the highest number of views. On the other hand, the 'the-hudson-river-mini-bear' page had the lowest number of views, with only 2,610 views.
+
+● The click-through rate for "/the-original-mr-fuzzy" remained consistently stable over time, while the "/the-hudson-river-mini-bear" page consistently had the lowest click-through rate.
+
+● In the conversion funnel analysis of the paid traffic for the top two entry pages, the lowest conversion rate was observed from the specific product page to the cart page, which stood at 0.4561. Conversely, the highest conversion rate was seen from the shipping page to the billing page, reaching 0.8225.
+
+● Regarding traffic sources, desktop usage accounted for nearly 70% of all traffic, indicating its dominant role.
+
+● Among the various search engines, Gsearch emerged as the dominant channel for both mobile and desktop searches, with a share of 0.6922 and 0.6577 respectively.
+
+● Over the past four years, both the organic search rate and direct type-in rate have shown consistent increases, surpassing 10% from their initial under 5% values. However, the paid nonbrand search rate has experienced a decline, dropping from its original 86% to the latest measurement of 65%.
 
 
 # Part 4 Suggestions
