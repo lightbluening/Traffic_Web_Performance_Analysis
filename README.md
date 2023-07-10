@@ -253,22 +253,28 @@ In summary, organic search involves users finding a website through non-paid sea
 SQL Codes
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/c8e52be9-0dc9-4103-a90b-126ffdab4925)
 
+
 Result 
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/292257ea-5faa-4c84-8f7a-3bebb30ee88b)
 
 ### Step 2: Calculate the percentage for desktop and mobile of different utm_source.
 SQL Codes
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/00742c9e-27fe-41d3-932c-51c8e3079833)
+
 Result
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/73bcefe8-4e3d-4b05-a1cc-77163938d120)
 Based on the above results, it is evident that Gsearch is the dominant channel for both mobile and desktop searches, with a share of 0.6922 and 0.6577, respectively. In contrast, the other three channels exhibit significantly lower shares, regardless of whether it is in the mobile or desktop category.
 
 ## 9.	What percentage of sessions originate from organic search, direct type-ins, and paid searches on a yearly basis?
 
 SQL Codes
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/e0d71379-706b-4c59-9c79-9e438749b0ff)
 
 Result
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/da05e3a7-8c26-4342-8a52-71e431d4ce27)
 
 Based on the results above, it is evident that over a span of 4 years, the brand has significantly improved its reputation and recognition. The organic search rate has increased from an initial 0.0476 to the latest measurement of 0.1214, showcasing notable growth. Similarly, the direct type-in rate has seen an improvement from 0.0445 to 0.111, indicating increased brand familiarity among users.
