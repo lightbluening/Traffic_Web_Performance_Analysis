@@ -82,6 +82,7 @@ SQL Codes and Results
 In our dataset, we can observe that the earliest recorded website session took place on March 19, 2012, while the most recent session occurred on March 19, 2015. Therefore, the dataset spans a period of three years. However, it is important to note that due to the mentioned reason, the data for the first three months of 2012 and the third month of 2015 are incomplete.
 ## Step 5 Check the unique values for the categorical columns
 SQL Codes and Results
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/8dbcbbce-c1e0-4ba1-9e40-9c935eb24732)
 
 Based on the results above, we can observe the following unique values in each column:
