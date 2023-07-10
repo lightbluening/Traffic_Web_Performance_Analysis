@@ -78,8 +78,10 @@ There are 0 duplicates in our dataset.
 
 ## Step 4 Check the time range of the dataset
 SQL Codes and Results
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/a21f7e7a-ab16-4fbe-9b9b-542cd04ca074)
 In our dataset, we can observe that the earliest recorded website session took place on March 19, 2012, while the most recent session occurred on March 19, 2015. Therefore, the dataset spans a period of three years. However, it is important to note that due to the mentioned reason, the data for the first three months of 2012 and the third month of 2015 are incomplete.
+
 ## Step 5 Check the unique values for the categorical columns
 SQL Codes and Results
 
