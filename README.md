@@ -90,28 +90,37 @@ Additionally, SQL codes and corresponding results for Part 1 and Part 2 will be 
 In this part, besides data type, we aim to get an overview of the data by finding out its number of data points, missing values, duplicates, and unique values of categorical data. By conducting these assessments, we can gain a comprehensive overview of the dataset, including its size, data quality, and the uniqueness of categorical values. This information will form the foundation for further analysis and assist in making informed decisions throughout the project.
 
 ## Step 1 Check the total number of website sessions
+
 SQL Codes and Results
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/d17152b5-adda-4a28-a4e1-04383de55481)
+
 We can see that in the "website_sessions" table, there are a total of 472,871 data points or records.
 
 ## Step 2 Check missing values for each column
 SQL Codes and Result
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/18097bc9-1a09-47e9-ab30-f6bc5d5865ee)
+
 Based on the results displayed above, we can observe missing values in the 'utm_source', 'utm_campaign', 'utm_content', and 'http_referer' columns. This is expected and reasonable since we have only tagged the most frequently used search engine and source in the dataset.
 
 ## Step 3 Check the duplicates.
 SQL Codes and Results
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/5ffdc21b-f0ab-44c2-9325-f0bd6b73d4c7)
 
 There are 0 duplicates in our dataset.
 
 ## Step 4 Check the time range of the dataset
+
 SQL Codes and Results
 
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/a21f7e7a-ab16-4fbe-9b9b-542cd04ca074)
+
 In our dataset, we can observe that the earliest recorded website session took place on March 19, 2012, while the most recent session occurred on March 19, 2015. Therefore, the dataset spans a period of three years. However, it is important to note that due to the mentioned reason, the data for the first three months of 2012 and the third month of 2015 are incomplete.
 
 ## Step 5 Check the unique values for the categorical columns
+
 SQL Codes and Results
 
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/8dbcbbce-c1e0-4ba1-9e40-9c935eb24732)
