@@ -15,7 +15,7 @@ Maven Fuzzy Factory, founded in 2013, is a small online business specializing in
 
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/68e0dec0-fe6f-40a1-b1f7-e14683371e82)
 
-The database comprises 6 interrelated tables that contain comprehensive Ecommerce data, including information on website activity, products, orders, refunds, and more. For this particular project, our focus will be on querying data from two interconnected tables: "website_sessions" , “orders” and "website_pageviews." These tables provide valuable insights into website sessions and pageviews, enabling us to analyze user behavior and website performance effectively. 
+The database comprises 6 interrelated tables that contain comprehensive Ecommerce data, including information on website activity, products, orders, refunds, and more. For this particular project, our focus will be on querying data from three interconnected tables: "website_sessions" , “orders” and "website_pageviews." These tables provide valuable insights into website sessions and pageviews, enabling us to analyze user behavior and website performance effectively. 
 The website_sessions table contains 9 columns: 
 "website_session_id": This column contains a unique identifier for each website session. It serves as a reference number or label for individual sessions.
 "created_at": The "created_at" column records the timestamp indicating when each website session was created. This information helps track the timing and frequency of sessions.
