@@ -203,12 +203,14 @@ Step 3: Build the conversion funnel.
 
 ### Step 1: Select all pageviews for relevant sessions.
 SQL Codes
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/cce0c581-cc20-443b-8afc-d97c59e31100)
 
 ### Step 2: Identify the sequence of placing an order.
-SQL Codes
+SQL Codes and Result
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/a8401aac-a061-4e7b-a767-09b368aebd09)
-Result 
+ 
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/f31a3d0c-fa5a-47fd-b616-63e84e4b398b)
 
 We have selected two sessions from the results: “website_session_id” 472668 and 472678. It is worth noting that both of these sessions have placed an order.
@@ -222,11 +224,10 @@ Page 6: billing pages (which are '/billing-2','/billing')
 Page 7: placing an order page (which is '/thank-you-for-your-order')
 
 ### Step 3: Build the conversion funnel.
-SQL Codes
+SQL Codes and Result
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/e725de83-e670-4769-a012-165e50f61af8)
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/565242cc-b5d2-40b3-841d-85c843a4fe05)
 
-Result
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/1ddd58e7-f378-4b8e-9eba-50a5c12554b2)
 
 Based on the results above, we can observe the following conversion rates:
@@ -251,6 +252,7 @@ In summary, organic search involves users finding a website through non-paid sea
 ### Step 1: Calculate the total sessions for desktop and mobile respectively.
 
 SQL Codes
+
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/c8e52be9-0dc9-4103-a90b-126ffdab4925)
 
 
