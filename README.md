@@ -144,6 +144,9 @@ Based on the results, it is evident that the top two landing pages are "/home" a
 ## 4.	What are the bounce rates associated with different entry pages?
 SQL Codes and Results
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/e6ee3889-c6b1-482c-893d-f88aa36ad3e1)
+
+Based on the results above, it is evident that the entry page '-lander-5' exhibits the lowest bounce rate of 0.3687. Following that, the '/home' entry page has a slightly higher bounce rate of 0.4168, while '/lander-2' has a bounce rate of 0.4517. On the other hand, the remaining three entry pages all have bounce rates exceeding 0.5, which can be considered relatively high.
+
 ## 5.	What are the overall paid traffic bounce rate trend monthly of different entry page?
 SQL Codes and Results
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/1af54696-4c96-4d89-adb4-cab2b698c125)
