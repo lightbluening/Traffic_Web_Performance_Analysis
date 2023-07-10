@@ -363,6 +363,19 @@ However, it is important to mention that the paid nonbrand search rate has exper
 
 # Part 4 Suggestions
 
+● Investigating the reasons for the low session to order conversion rate of Gsearch Nonbrand and Bsearch Nonbrand, despite being the top two sources of website traffic. Although Gsearch Nonbrand accounts for nearly 60% of all website sessions, its session to order conversion rate is below the overall conversion rate at 6.66%. Similarly, Bsearch Nonbrand, while being a significant traffic source, also exhibits a lower conversion rate. Analyzing the factors contributing to these lower conversion rates is crucial to identify potential improvements in conversion optimization strategies and address any barriers or challenges specific to these channels.
+
+
+● Investigating the reasons for the high bounce rate of '/lander3', one of the landing pages. Despite the coexistence of three landing pages, the bounce rate for '/home' has shown improvement, while '/lander5' maintains a relatively consistent rate around 36%. However, '/lander3' consistently experiences a higher bounce rate, with the highest recorded at 58%. Understanding the factors leading to this higher bounce rate can help identify usability issues, content relevance, or other factors that may contribute to users leaving the page without further engagement. Addressing these reasons can help improve the overall user experience and reduce bounce rates.
+
+
+● Investigating the reasons for the low click-through rate of the company's newest product, the 'Hudson River Mini Bear'. Typically, new products achieve a click-through rate above 10% within a month. However, after four months, the click-through rate for the 'Hudson River Mini Bear' remains around 5%. Examining the potential reasons behind this lower click-through rate can involve assessing the product's positioning, marketing messaging, visual presentation, and overall appeal to the target audience. Identifying areas for improvement can help increase the click-through rate and generate more interest and engagement with the product.
+
+
+● Investigating the reasons for the low conversion rate from the billing page to the placing an order page. The transition from the billing page to the final step of placing an order represents a critical stage in the conversion process. However, approximately 36% of customers abandon the process at this point. One potential reason could be inadequate payment methods, causing customers to hesitate or reconsider their purchase. Evaluating the available payment options, their user-friendliness, security, and overall convenience can help identify any barriers preventing customers from completing the order. Improving the payment experience can positively impact the conversion rate at this stage.
+
+
+● Investigating the reasons for the declining search rate of paid nonbrand search. Although paid nonbrand search continues to play a significant role in driving website traffic, the search rate has witnessed a decline from the original 86% to the latest measurement of 65%. This decline may indicate potential inefficiencies in the paid nonbrand search campaign. Conducting a comprehensive analysis of the campaign structure, keyword targeting, ad messaging, and audience segmentation can help identify areas for optimization and improve the effectiveness of the paid nonbrand search strategy.
 
 
 
