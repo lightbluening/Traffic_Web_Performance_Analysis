@@ -70,13 +70,18 @@ The "orders" table comprises nine columns:
 
 For my analysis, I have divided it into 4 parts:
 1. Data Preparation: This phase involves preparing and organizing the dataset for analysis. 
-2. Exploratory Data Analysis: In this part of the analysis, I will focus on the following specific areas: 
+2. Exploratory Data Analysis: In this part of the analysis, I will focus on the following specific areas:
+   
 Website Performance Analysis: This analysis will assess various aspects of website performance, such as traffic source, bounce rate and conversion rates. It aims to identify areas of improvement and suggest strategies to enhance overall website performance.
+
 Conversion Funnel Analysis: This analysis will examine the conversion funnel, tracking the user journey from initial website entry to completing a desired action (e.g., placing an order). It will identify bottlenecks or drop-off points within the funnel and propose strategies to optimize conversions and improve the overall user experience.
+
 Channel Portfolio Analysis: This analysis will evaluate the effectiveness and performance of different marketing channels in driving website traffic and conversions. 
+
 By conducting these analyses and providing suggestions in Part 2, we aim to gain valuable insights into website performance, optimize conversion funnels, and improve the management of various marketing channels. 
-3. Findings: Based on the exploratory analysis, this section will present the key findings and insights obtained from the data. It will highlight significant observations or discoveries that are relevant to the project's objectives.
-4. Suggestions: In this part, I will provide actionable suggestions or recommendations based on the findings. These suggestions aim to improve website performance, optimize conversion funnels, and enhance channel portfolio management.
+
+4. Findings: Based on the exploratory analysis, this section will present the key findings and insights obtained from the data. It will highlight significant observations or discoveries that are relevant to the project's objectives.
+5. Suggestions: In this part, I will provide actionable suggestions or recommendations based on the findings. These suggestions aim to improve website performance, optimize conversion funnels, and enhance channel portfolio management.
 
 Additionally, SQL codes and corresponding results for Part 1 and Part 2 will be presented in the screenshots.
 
