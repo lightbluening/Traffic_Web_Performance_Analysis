@@ -203,13 +203,21 @@ SQL Codes and Result
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/38eb7af8-babc-4c4c-b6b7-8b9db59e02a7)
 
 By pulling out the “pageview_url” of a complete session, we know that the sequence of placing an order is :
+
 Page 1: entry pages which are '/home','/lander-1','/lander-2','/lander-3','/lander-4','/lander-5'
+
 Page 2:'/products',
+
 Page 3:'/the-original-mr-fuzzy'('/the-hudson-river-mini-bear','/the-birthday-sugar-panda','/the-forever-love-bear'),
+
 Page 4:'/cart',
+
 Page 5:'/shipping',
+
 Page 6:'/billing-2'('/billing')(‘/billing’ was withdrawn in January 2013.)
+
 Page 7:'/thank-you-for-your-order'
+
 In our analysis, we began by excluding the landing pages' URLs. It is evident that the "/products" pageview holds the top position. Following the product page, we identified four specific product pages. Among them, the "/the-original-mr-fuzzy" page emerged as the most popular, accumulating 162,525 views. However, the remaining three product pages received significantly less attention, with the "the-hudson-river-mini-bear" page having the lowest views at only 2,610. We need to investigate the underlying reasons for the low view count of this particular page.
 
 SQL Codes and Result
