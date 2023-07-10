@@ -100,7 +100,9 @@ Based on the results above, we can observe the following unique values in each c
 The practice of assessing and comprehending the various channels or sources that bring traffic to a website is known as traffic source analysis. It entails examining and classifying the sources or referrers of website visitors in order to learn whether marketing initiatives or platforms are significantly increasing traffic.
 Identification and evaluation of the efficiency of various marketing channels and campaigns in generating website traffic are the objectives of traffic source analysis. It assists companies in making data-driven decisions about their marketing plans, financial planning, and audience targeting.
 In this part, we aim to answer the following 2 questions.
+
 ● What is the primary source of website traffic?
+
 ● How do different traffic channels perform in terms of conversion rates?
 
 
@@ -142,6 +144,8 @@ SQL Codes and Results
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/1cc52c18-8f67-4015-9fe1-b99662e67d7b)
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/bfdf1ca3-e5e6-44b7-9820-b2c68e44205b)
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/df52b87d-51bb-415f-963a-e2ea8b56b5d3)
+
+
 From the results above, it is evident that the overall bounce rate of paid traffic has significantly decreased, from 0.6079 to the latest measurement of 0.4023. The lowest bounce rate occurred in February 2015, with only 0.3957. Additionally, the entry and exit times for each landing page can be extracted from the results.
 Overall, there is a coexisting time period for some landing pages. However, the "/home" and "/lander2" landing pages have the longest serving durations, spanning 36 months and 24 months respectively. On the other hand, "/lander1" and "/lander4" experienced high bounce rates above 0.5, leading to their abandonment. Apart from "/home," "/lander3" and "/lander5" landing pages are still in use, while the others no longer exist.
 It is worth noting that "/lander2" outperformed "/lander3" from July 2013 to October 2014. However, for reasons unspecified, "/lander2" performed poorly starting in November 2014 and was ultimately withdrawn.
