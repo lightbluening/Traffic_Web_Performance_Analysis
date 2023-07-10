@@ -126,10 +126,16 @@ Bounce rate: The percentage of visitors who leave the website after viewing only
 User engagement: Metrics related to user interaction and engagement on the website, such as page views, and click-through rates.
 Website performance’s goal is to identify performance bottlenecks, improve user experience, increase conversions, and optimize the website's overall performance.
 In this section, we aim to answer the following questions:
+
+
 ● What are the top entry pages?
+
 ● What are the bounce rates associated with different entry pages?
+
 ● What are the overall paid Gsearch Nonbrand bounce rate trend monthly of different entry page?
+
 ● What are the most viewed and least viewed pages on the website?
+
 ## 3.	What are the top entry pages?
 SQL Codes and Results
 ![image](https://github.com/lightbluening/Traffic_Web_Performance_Analysis/assets/93415125/15b9ed90-4dd4-4aff-8d55-0e0a4e12f8b2)
