@@ -2,7 +2,12 @@
 Use MySQL to analyze Maven Fuzzy Factory' website performance, conversion rates, and bounce rates,etc.
 # Background
 Maven Fuzzy Factory, founded in 2012, is a small online business specializing in the sale of Mr. Fuzzy-themed toys. Their product range includes popular items such as the Original Mr. Fuzzy and the Birthday Sugar Panda. Operating exclusively online, the company does not have a physical store. To gain market share and enhance brand recognition, Maven Fuzzy Factory has implemented advertising campaigns through various search channels, including gsearch and bsearch. Over the course of four years(2012-2015), the company has amassed a comprehensive database comprising information on their products, orders, website activities, and more. As a data analyst, our objective is to utilize MySQL to gain insights into customer behavior and interaction with the website. This involves analyzing website performance, conversion rates, and investigating potential causes of high bounce rates,etc. 
+
+
+
 ![image](https://github.com/lightbluening/Website-Performance-Analysis-Using-SQL/assets/93415125/d2ef678e-48b1-40d0-a7ad-afc08cc85836)
+
+
 
 
 Our analysis aims to address the following questions:
