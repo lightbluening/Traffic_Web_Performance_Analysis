@@ -5,7 +5,7 @@ Select Count(Distinct website_session_id) As number_of_sessions
 From website_sessions;
 
  
--- Check missing values
+-- Check missing values of the dataset
 
 SELECT
     SUM(website_session_id IS NULL) AS sessionid_no,
